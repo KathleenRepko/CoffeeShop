@@ -1,0 +1,29 @@
+﻿body {
+    background-color: ivory;
+}
+
+h1{
+    font-family: 'Carter One', cursive;
+    color: saddlebrown;
+}
+
+h3 {
+    font-family: 'Carter One', cursive;
+    color: saddlebrown;
+}
+
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: saddlebrown;
+}
+
+.aboutRestaurant{
+    margin: 70px 4px 80px 425px;
+}
+
+.outsideView{
+    float: left;
+    position: relative ;
+}
+
+
